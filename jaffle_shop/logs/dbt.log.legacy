@@ -1,0 +1,4 @@
+2023-01-24 02:10:03.282927 (MainThread): unclosed <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.15.4', 59058)>
+2023-01-24 22:51:13.270666 (MainThread): unclosed <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.15.4', 49701)>
+2023-01-25 01:13:06.390042 (MainThread): unclosed <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.15.4', 50206), raddr=('34.203.163.13', 443)>
+2023-01-25 01:17:44.093357 (MainThread): unclosed <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('192.168.15.4', 50248), raddr=('34.203.163.13', 443)>
